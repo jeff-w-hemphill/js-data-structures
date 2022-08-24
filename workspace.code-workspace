@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../../csci3308"
+		},
+		{
+			"path": "../../travel-planning-tool"
+		},
+		{
+			"path": "../../templates"
+		},
+		{
+			"path": "../../portfolio/jwh"
+		},
+		{
+			"path": "../../portfolio/ionic-bonds"
+		},
+		{
+			"path": "../js-survey"
+		},
+		{
+			"path": "../../portfolio/travelscope"
+		},
+		{
+			"path": "../../portfolio/l-habit"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../python/py_data_structures"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BBP Timed Takehome v3 2"
+	}
+}
