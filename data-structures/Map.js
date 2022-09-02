@@ -21,7 +21,7 @@ for (let i = 0; i < wordArr.length; i++) {
 console.log(wordMap);
 
 let sortedWords = [...wordMap].sort((a, b) => {
-   return a[1] > b[1] ? -1 : 1;
+   return a[1] - b[1] ? -1 : 1;
 })
 
 console.log(sortedWords);
